@@ -1,6 +1,6 @@
 <template>
   <div>
-    <img alt="Vue logo" src="./assets/shdrdc.png" width="200" height="200" />
+    <img alt="Vue logo" src="./assets/circle.png" width="200" height="200" />
     <HelloWorld msg="这是标题" />
   </div>
   <el-menu
